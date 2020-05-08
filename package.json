@@ -15,7 +15,7 @@
     "copy-concurrently": "^1.0.0",
     "aproba": "^1.1.1",
     "fs-write-stream-atomic": "^1.0.8",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.4",
     "rimraf": "^2.5.4",
     "run-queue": "^1.0.3"
   },
